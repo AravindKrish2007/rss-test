@@ -4,7 +4,13 @@
     <title>Test Vulnerability Feed</title>
     <link>https://example.com/test-feed</link>
     <description>Test feed for Power Automate RSS trigger</description>
-
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog v1 - Test</title>
+      <link>https://www.cisa.gov/news-events/alerts/test-item-1</link>
+      <guid isPermaLink="false">test-item-002</guid>
+      <pubDate>Thu, 26 Nov 2026 16:00:00 GMT</pubDate>
+      <description>CISA has added CVE-2026-00002, a Windows privilege escalation vulnerability, to the Known Exploited Vulnerabilities Catalog based on evidence of active exploitation. Apply vendor updates by the due date.</description>
+    </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://www.cisa.gov/news-events/alerts/test-item-1</link>
